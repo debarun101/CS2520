@@ -1,2 +1,4 @@
 # CS2520
-Wide Area Networks
+Wide Area Networks Course
+
+Simple Routing Protocol
