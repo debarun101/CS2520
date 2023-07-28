@@ -1,0 +1,7 @@
+HelloInterval:10*
+UpdateInterval:20*
+Pc:0*
+Pe:0*
+MaxAge:2500*
+NameServer:/afs/cs.pitt.edu/usr0/debarun/private/WAN_proj1_2/NameConfig*
+Debug:0*
